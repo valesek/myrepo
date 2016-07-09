@@ -1,0 +1,24 @@
+{
+    "author": "valesek@seznam.cz",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mywatchface5min1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "MyWatchFace5Min1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "4c10ee7f-d9be-42ef-97de-b574309eded7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
